@@ -1,0 +1,15 @@
+D:\ProyectoProgramación\ASP NETCORE\Sistema\Sistema.Datos\bin\Release\netcoreapp2.1\Sistema.Datos.deps.json
+D:\ProyectoProgramación\ASP NETCORE\Sistema\Sistema.Datos\bin\Release\netcoreapp2.1\Sistema.Datos.runtimeconfig.json
+D:\ProyectoProgramación\ASP NETCORE\Sistema\Sistema.Datos\bin\Release\netcoreapp2.1\Sistema.Datos.runtimeconfig.dev.json
+D:\ProyectoProgramación\ASP NETCORE\Sistema\Sistema.Datos\bin\Release\netcoreapp2.1\Sistema.Datos.dll
+D:\ProyectoProgramación\ASP NETCORE\Sistema\Sistema.Datos\bin\Release\netcoreapp2.1\Sistema.Datos.pdb
+D:\ProyectoProgramación\ASP NETCORE\Sistema\Sistema.Datos\bin\Release\netcoreapp2.1\Sistema.Entidades.dll
+D:\ProyectoProgramación\ASP NETCORE\Sistema\Sistema.Datos\bin\Release\netcoreapp2.1\Sistema.Entidades.pdb
+D:\ProyectoProgramación\ASP NETCORE\Sistema\Sistema.Datos\obj\Release\netcoreapp2.1\Sistema.Datos.csprojAssemblyReference.cache
+D:\ProyectoProgramación\ASP NETCORE\Sistema\Sistema.Datos\obj\Release\netcoreapp2.1\Sistema.Datos.AssemblyInfoInputs.cache
+D:\ProyectoProgramación\ASP NETCORE\Sistema\Sistema.Datos\obj\Release\netcoreapp2.1\Sistema.Datos.AssemblyInfo.cs
+D:\ProyectoProgramación\ASP NETCORE\Sistema\Sistema.Datos\obj\Release\netcoreapp2.1\Sistema.Datos.csproj.CoreCompileInputs.cache
+D:\ProyectoProgramación\ASP NETCORE\Sistema\Sistema.Datos\obj\Release\netcoreapp2.1\Sistema.Datos.csproj.CopyComplete
+D:\ProyectoProgramación\ASP NETCORE\Sistema\Sistema.Datos\obj\Release\netcoreapp2.1\Sistema.Datos.dll
+D:\ProyectoProgramación\ASP NETCORE\Sistema\Sistema.Datos\obj\Release\netcoreapp2.1\Sistema.Datos.pdb
+D:\ProyectoProgramación\ASP NETCORE\Sistema\Sistema.Datos\obj\Release\netcoreapp2.1\Sistema.Datos.genruntimeconfig.cache

@@ -1,0 +1,18 @@
+C:\ASP Net Core Vuejs\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.deps.json
+C:\ASP Net Core Vuejs\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\ASP Net Core Vuejs\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\ASP Net Core Vuejs\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.csprojAssemblyReference.cache
+C:\ASP Net Core Vuejs\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\ASP Net Core Vuejs\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.AssemblyInfoInputs.cache
+C:\ASP Net Core Vuejs\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.AssemblyInfo.cs
+C:\ASP Net Core Vuejs\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\ASP Net Core Vuejs\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+D:\ProyectoProgramación\ASP NETCORE\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.deps.json
+D:\ProyectoProgramación\ASP NETCORE\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+D:\ProyectoProgramación\ASP NETCORE\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+D:\ProyectoProgramación\ASP NETCORE\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.AssemblyInfoInputs.cache
+D:\ProyectoProgramación\ASP NETCORE\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.AssemblyInfo.cs
+D:\ProyectoProgramación\ASP NETCORE\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.csproj.CoreCompileInputs.cache
+D:\ProyectoProgramación\ASP NETCORE\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.dll
+D:\ProyectoProgramación\ASP NETCORE\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+D:\ProyectoProgramación\ASP NETCORE\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.csprojAssemblyReference.cache
